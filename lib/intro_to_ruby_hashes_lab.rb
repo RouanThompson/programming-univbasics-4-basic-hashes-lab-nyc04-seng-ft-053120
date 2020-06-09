@@ -24,5 +24,5 @@ def id_hash_generator(number)
   my_hash = {
     key: number
   }
-  my_hash[key]
+  my_hash[:key]
 end
